@@ -1,9 +1,9 @@
 {
-  "version": "0.3.1",
-  "installer": "GeoChem Explorer_0.3.1_x64-setup.exe",
-  "publishedAt": "2026-09-22",
-  "notes": "GeoChem Explorer 0.3.1 fixes the sample project, which did not load in 0.3.0, and import failures on mine and local grids, upper-case assay exports, and projects without a hole type. New: a Plot tab for printable PDF pages, pasting a list of hole IDs into the hole picker, a length-weighted statistics table by rock type, a section overview map, and a readout of the view's bearing and plunge.",
+  "version": "0.3.2",
+  "installer": "GeoChem Explorer_0.3.2_x64-setup.exe",
+  "publishedAt": "2026-10-01",
+  "notes": "GeoChem Explorer 0.3.2 makes the Plot tab a full page editor, with annotations, key plans, templates, section runs and image export. GIS layers and surface samples can sit on a terrain surface, and ASTER mineral maps download in the app. Units can be set by element and sample type. Core photos load from any folder layout, RC chip trays get their own column, and block models draw quickly at millions of blocks. Projects re-import once on first open.",
   "mandatory": false,
-  "windowsInstaller": "GeoChem Explorer_0.3.1_x64-setup.exe",
-  "windowsInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.3.1/GeoChem.Explorer_0.3.1_x64-setup.exe"
+  "windowsInstaller": "GeoChem Explorer_0.3.2_x64-setup.exe",
+  "windowsInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.3.2/GeoChem.Explorer_0.3.2_x64-setup.exe"
 }
