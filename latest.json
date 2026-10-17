@@ -1,9 +1,9 @@
 {
-  "version": "0.3.2",
-  "installer": "GeoChem Explorer_0.3.2_x64-setup.exe",
-  "publishedAt": "2026-10-01",
-  "notes": "GeoChem Explorer 0.3.2 makes the Plot tab a full page editor, with annotations, key plans, templates, section runs and image export. GIS layers and surface samples can sit on a terrain surface, and ASTER mineral maps download in the app. Units can be set by element and sample type. Core photos load from any folder layout, RC chip trays get their own column, and block models draw quickly at millions of blocks. Projects re-import once on first open.",
+  "version": "0.3.3",
+  "installer": "GeoChem Explorer_0.3.3_x64-setup.exe",
+  "publishedAt": "2026-10-17",
+  "notes": "GeoChem Explorer 0.3.3 adds drill planning, regional prospectivity and structural discs, and an AI assistant that works in your project, in its own window or through Claude Desktop, Claude Code or Codex (30-day free trial). Snapping is one setting for every tool, sections can be drawn at a set azimuth, and large LiDAR surfaces load as grids. Input updates merge by hole. Large projects open with less memory. Projects re-import once on first open.",
   "mandatory": false,
-  "windowsInstaller": "GeoChem Explorer_0.3.2_x64-setup.exe",
-  "windowsInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.3.2/GeoChem.Explorer_0.3.2_x64-setup.exe"
+  "windowsInstaller": "GeoChem Explorer_0.3.3_x64-setup.exe",
+  "windowsInstallerPath": "https://github.com/mineralabs/Geochem_Explorer_Releases/releases/download/v0.3.3/GeoChem.Explorer_0.3.3_x64-setup.exe"
 }
